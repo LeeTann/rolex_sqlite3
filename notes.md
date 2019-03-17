@@ -1,6 +1,6 @@
 Layers
 
-Client <> API < adapter > data store
+Client <> API < (query builder <> adapter) > data store
 
 In JS we think like this { id, name, isActive }
 
